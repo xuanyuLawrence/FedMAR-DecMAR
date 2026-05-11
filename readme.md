@@ -1,6 +1,6 @@
 # Understanding the Robustness of Distributed Self-Supervised Learning Frameworks Against Non-IID Data
 
-The PyTorch implementation for paper "Understanding the Robustness of Distributed Self-Supervised Learning Frameworks Against Non-IID Data".
+The PyTorch implementation for paper "Understanding the Robustness of Distributed Self-Supervised Learning Frameworks Against Non-IID Data" accepted in ICLR 2026. The paper is available at https://openreview.net/forum?id=c3yt5VSZPQ.
 
 ## Environment Installation
 
